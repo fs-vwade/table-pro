@@ -2,6 +2,8 @@
 
 Introducing Table Pro, the successor to Table! Customers will now need to make an account and log in before they are able to make reservations for a table at a restaurant of their choice.
 
+The **solution** branch contains documented solution code. The commit history of that branch follows the instructions below.
+
 ## Customer Accounts in Database
 
 <figure>
